@@ -4,7 +4,7 @@ class apples{
 	 Scanner bucky = new Scanner(System.in);
 	 int a, b, c;
 	 
-	 a= 6;
+	 a= 9;
 	 b= 3;
 	 c= a +b;
 	 
